@@ -1,5 +1,5 @@
 function Home() {
-  return <div>Carro</div>
+  return <div>Página Inicial</div>
 }
 
 export default Home
